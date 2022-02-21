@@ -1,0 +1,43 @@
+.ust {
+    background-color: rgb(230, 227, 227);
+    width: 1400px;
+    margin: auto;
+    height: 65px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+.yanlar {
+    margin: auto;
+    width: 1400px;
+    height: 85px;
+    margin-bottom: 20px;
+}
+.yan1 {
+    background-color: #91d8cf;
+    float: left;
+    width: 495px;
+    height: 70px;
+    padding-top: 15px;
+    margin-right: 5px;
+}
+
+.yan2 {
+    background-color: #68ccbf;
+    float: left;
+    width: 295px;
+    height: 80px;
+    padding-top: 5px;
+    margin-right: 5px;
+}
+
+.yan3 {
+    background-color: #3a9b8e;
+    float: left;
+    width: 600px;
+    height: 85px;
+}
+
+.text {
+    width: 300px;
+}
